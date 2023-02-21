@@ -1,11 +1,8 @@
 {
-	"name": "@drgatoxd/eslint-config",
+	"name": "eslint-config-drgatoxd",
 	"version": "1.0.0",
 	"description": "ESLint rules for my TypeScript projects.",
 	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
 	"keywords": [
 		"eslint",
 		"config",
