@@ -1,0 +1,21 @@
+{
+	"name": "@drgatoxd/eslint-config",
+	"version": "1.0.0",
+	"description": "ESLint rules for my TypeScript projects.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"eslint",
+		"config",
+		"typescript"
+	],
+	"author": "drgatoxd",
+	"license": "MIT",
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.53.0",
+		"@typescript-eslint/parser": "^5.53.0",
+		"eslint": "^8.34.0"
+	}
+}
