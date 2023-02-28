@@ -1,12 +1,13 @@
 {
-	"name": "eslint-config-drgatoxd",
+	"name": "@drgatoxd/config",
 	"version": "1.0.0",
-	"description": "ESLint rules for my TypeScript projects.",
+	"description": "Config files for my Typescript projects.",
 	"main": "index.js",
 	"keywords": [
 		"eslint",
 		"config",
-		"typescript"
+		"typescript",
+		"tsconfig"
 	],
 	"author": "drgatoxd",
 	"license": "MIT",
