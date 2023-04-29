@@ -16,7 +16,7 @@
 		"sourceMap": false,
 		"outDir": "./dist",
 		"removeComments": true,
-		"importsNotUsedAsValues": "error",
+		"verbatimModuleSyntax": true,
 		"inlineSourceMap": false,
 		"newLine": "crlf",
 		"declarationDir": "./types",
